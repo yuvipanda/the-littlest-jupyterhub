@@ -18,8 +18,6 @@ Administrators who do not consider themselves 'system administrators' but would
 like to provide hosted Jupyter Notebooks for their students / users are the
 primary audience. All users get the same environment, and administrators can
 install libraries into this environment without any specialized knowledge.
-It provides all users with the same environment, and administrators can install
-libraries into this environment easily without any specialized knowledge.
 
 See `this blog post <http://words.yuvi.in/post/the-littlest-jupyterhub/>`_ for
 more information.
